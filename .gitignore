@@ -1,0 +1,9 @@
+.env
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.pyc
+*.venv
+config.py
+*.log 
